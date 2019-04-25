@@ -1,0 +1,7 @@
+D:\C#\Labs\Bonus3\Bonus3\bin\Debug\Bonus3.exe.config
+D:\C#\Labs\Bonus3\Bonus3\bin\Debug\Bonus3.exe
+D:\C#\Labs\Bonus3\Bonus3\bin\Debug\Bonus3.pdb
+D:\C#\Labs\Bonus3\Bonus3\obj\Debug\Bonus3.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Bonus3\Bonus3\obj\Debug\Bonus3.exe
+D:\C#\Labs\Bonus3\Bonus3\obj\Debug\Bonus3.pdb
+D:\C#\Labs\Bonus3\Bonus3\obj\Debug\Bonus3.csprojAssemblyReference.cache
